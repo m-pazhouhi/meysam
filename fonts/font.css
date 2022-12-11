@@ -1,0 +1,29 @@
+@font-face {
+    font-family: VazirMedium;
+    src: url('./vazir/Vazir-Medium.eot');
+    src: url('./vazir/Vazir-Medium.eot?#iefix') format('FontName-opentype'),
+        url('./vazir/Vazir-Medium.woff') format('woff'),
+        url('./vazir/Vazir-Medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Yekan;
+    src: url('./yekan/Yekan.eot');
+    src: url('./yekan/Yekan.eot?#iefix') format('FontName-opentype'),
+        url('./yekan/Yekan.woff') format('woff'),
+        url('./yekan/Yekan.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: VazirThin;
+    src: url('./vazir/Vazir-Thin.eot');
+    src: url('./vazir/Vazir-Thin.eot?#iefix') format('FontName-opentype'),
+        url('./vazir/Vazir-Thin.woff') format('woff'),
+        url('./vazir/Vazir-Thin.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

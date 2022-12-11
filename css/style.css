@@ -92,6 +92,27 @@ body {
     #boxs {
         grid-template-columns: auto;
     }
+
+    #services b {
+        display: none;
+    }
+
+    #services h3 span {
+        margin: 0 auto;
+        font-size: 21px;
+    }
+}
+
+@media (max-width: 600px) {
+    #services h3 span {
+        font-size: 17px;
+    }
+}
+
+@media (max-width: 400px) {
+    #services h3 span {
+        font-size: 14px;
+    }
 }
 
 .box img {

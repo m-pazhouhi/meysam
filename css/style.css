@@ -156,6 +156,12 @@ body {
     max-width: 30px;
 }
 
+@media (max-width: 800px) {
+    #articles {
+        grid-template-columns: auto;
+    }
+}
+
 #opinion {
     background-color: #141d27;
 }
